@@ -1,3 +1,2 @@
-Libimobiledevice compiled for Windows<br>
-Updated 31/07/2017.<br>
-Compiled by iFred09 with MinGW32
+Libimobiledevice compiled for Windows
+Updated 18/05/2020. Compiled by iFred09
